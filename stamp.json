@@ -4,28 +4,28 @@
     "name": "Penny Black",
     "country": "United Kingdom",
     "year": 1840,
-    "imageUrl": "./images/penny_black.jpg"
+    "imageUrl": "/images/penny_black.jpg"
   },
   {
     "id": 2,
     "name": "Blue Mauritius",
     "country": "Mauritius",
     "year": 1847,
-    "imageUrl": "./images/blue_mauritius.jpg"
+    "imageUrl": "/images/blue_mauritius.jpg"
   },
   {
     "id": 3,
     "name": "Inverted Jenny",
     "country": "United States",
     "year": 1918,
-    "imageUrl": "./images/inverted_jenny.jpg"
+    "imageUrl": "/images/inverted_jenny.jpg"
   },
   {
     "id": 4,
     "name": "Avión sobre el Volcán Poás 1c",
     "country": "Costa Rica",
     "year": 1937,
-    "imageUrl": "./images/volcan_poas.jpg"
+    "imageUrl": "/images/volcan_poas.jpg"
   },
   {
     "id": 5,
