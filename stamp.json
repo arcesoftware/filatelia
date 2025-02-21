@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "Penny Black",
+    "country": "United Kingdom",
+    "year": 1840,
+    "imageUrl": "/images/penny_black.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Mauritius",
+    "country": "Mauritius",
+    "year": 1847,
+    "imageUrl": "/images/blue_mauritius.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Inverted Jenny",
+    "country": "United States",
+    "year": 1918,
+    "imageUrl": "/images/inverted_jenny.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Avión sobre el Volcán Poás 1c",
+    "country": "Costa Rica",
+    "year": 1937,
+    "imageUrl": "/images/volcan_poas.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Treskilling Yellow",
+    "country": "Sweden",
+    "year": 1855,
+    "imageUrl": "/images/treskilling_yellow.jpg"
+  },
+    {
+        "id": 6,
+        "name": "Basel Dove",
+        "country": "Switzerland",
+        "year": 1845,
+        "imageUrl": "/images/basel_dove.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Post Office Mauritius",
+        "country": "Mauritius",
+        "year": 1847,
+        "imageUrl": "/images/post_office_mauritius.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hawaiian Missionaries",
+        "country": "Hawaii",
+        "year": 1851,
+        "imageUrl": "/images/hawaiian_missionaries.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cape of Good Hope",
+        "country": "Cape of Good Hope",
+        "year": 1853,
+        "imageUrl": "/images/cape_of_good_hope.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Orange Free State",
+        "country": "Orange Free State",
+        "year": 1868,
+        "imageUrl": "/images/orange_free_state.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Bull's Eye",
+        "country": "Switzerland",
+        "year": 1843,
+        "imageUrl": "/images/bulls_eye.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Scinde Dawk",
+        "country": "India",
+        "year": 1852,
+        "imageUrl": "/images/scinde_dawk.jpg"
+    },
+    {
+        "id": 13,
+        "name": "St. Louis Bears",
+        "country": "United States",
+        "year": 1926,
+        "imageUrl": "/images/st_louis_bears.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pan American Inverts",
+        "country": "United States",
+        "year": 1901,
+        "imageUrl": "/images/pan_american_inverts.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Inverted Swan",
+        "country": "Australia",
+        "year": 1855,
+        "imageUrl": "/images/inverted_swan.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Papal States",
+        "country": "Papal States",
+        "year": 1852,
+        "imageUrl": "/images/papal_states.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Brasil Bull's Eye",
+        "country": "Brazil",
+        "year": 1843,
+        "imageUrl": "/images/brasil_bulls_eye.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Perot Provisional",
+        "country": "Hawaii",
+        "year": 1851,
+        "imageUrl": "/images/perot_provisional.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Cape of Good Hope",
+        "country": "Cape of Good Hope",
+        "year": 1853,
+        "imageUrl": "/images/cape_of_good_hope.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Orange Free State",
+        "country": "Orange Free State",
+        "year": 1868,
+        "imageUrl": "/images/orange_free_state.jpg"
+    }
+
+]
