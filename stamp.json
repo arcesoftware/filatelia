@@ -11,21 +11,21 @@
     "name": "Blue Mauritius",
     "country": "Mauritius",
     "year": 1847,
-    "imageUrl": "images/blue_mauritius.jpg"
+    "imageUrl": "https://arcesoftware.github.io/filatelia/images/blue_mauritius.jpg"
   },
   {
     "id": 3,
     "name": "Inverted Jenny",
     "country": "United States",
     "year": 1918,
-    "imageUrl": "/images/inverted_jenny.jpg"
+    "imageUrl": "https://arcesoftware.github.io/filatelia/images/inverted_jenny.jpg"
   },
   {
     "id": 4,
     "name": "Avión sobre el Volcán Poás 1c",
     "country": "Costa Rica",
     "year": 1937,
-    "imageUrl": "/images/volcan_poas.jpg"
+    "imageUrl": "https://arcesoftware.github.io/filatelia/images/volcan_poas.jpg"
   },
   {
     "id": 5,
