@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps.JPG?raw=true)
-
+<p align="center">
 # Philatelic Collection
-
+</p>
 Welcome to the **Philatelic Collection** repository! This project hosts a static website showcasing a personal collection of postage stamps. The website allows users to filter and view stamps based on various attributes.
 
 ## Features
