@@ -13,12 +13,14 @@ Welcome to the **Philatelic Collection** repository! This project hosts a static
 ## Project Structure
 
 ```plaintext
-/philatelic-collection
+/filatelia
 │── index.html       # Main HTML file
 │── style.css        # Stylesheet for the website
 │── script.js        # JavaScript for filtering functionality
-│── stamps.json      # JSON database of stamps (if applicable)
-│── images/         # Directory containing stamp images
+│── stamp.json       # JSON database of stamps (if applicable)
+│── README.md        # Project documentation (this file)
+│── images/          # Directory containing stamp images
+│   └── stamps.JPG   # Example stamp image
 ```
 
 ## Usage
