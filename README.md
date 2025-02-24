@@ -1,54 +1,51 @@
 ![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps.JPG?raw=true)
-<h1 align="center">Philatelic Collection</h1>
-Welcome to the **Philatelic Collection** repository! This project hosts a static website showcasing a personal collection of postage stamps. The website allows users to filter and view stamps based on various attributes.
+<h1 align="center">Colección Filatélica</h1>
+¡Bienvenido al repositorio de la **Colección Filatélica**! Este proyecto alberga un sitio web estático que muestra una colección personal de estampillas postales. El sitio web permite a los usuarios filtrar y ver las estampillas según varios atributos.
 
-## Features
-- Displays a collection of postage stamps in a tabular format.
-- Allows filtering by ID, name, country, and year.
-- Includes an image preview of each stamp.
-- Utilizes HTML, CSS, and JavaScript for a simple and interactive interface.
+## Características
+- Muestra una colección de estampillas postales en formato tabular.
+- Permite filtrar por ID, nombre, país y año.
+- Incluye una vista previa de la imagen de cada estampilla.
+- Utiliza HTML, CSS y JavaScript para una interfaz sencilla e interactiva.
 
-## Project Structure
+## Estructura del Proyecto
 
 ```plaintext
 /filatelia
-│── index.html       # Main HTML file
-│── style.css        # Stylesheet for the website
-│── script.js        # JavaScript for filtering functionality
-│── stamp.json       # JSON database of stamps (if applicable)
-│── README.md        # Project documentation (this file)
-│── images/          # Directory containing stamp images
-│   └── stamps.JPG   # Example stamp image
+│── index.html       # Archivo HTML principal
+│── style.css        # Hoja de estilos para el sitio web
+│── script.js        # JavaScript para la funcionalidad de filtrado
+│── stamp.json       # Base de datos en JSON de estampillas (si aplica)
+│── README.md        # Documentación del proyecto (este archivo)
+│── images/          # Directorio que contiene las imágenes de las estampillas
+│   └── stamps.JPG   # Ejemplo de imagen de estampilla
 ```
 
-## Usage
+## Uso
 
-1. Clone this repository:  
+1. Clona este repositorio:  
    ```sh
    git clone https://github.com/yourusername/philatelic-collection.git
 
+2. Abre `index.html` en tu navegador para ver la colección.  
+3. Utiliza los campos de entrada sobre la tabla para filtrar las estampillas por **ID, nombre, país o año**.
 
-## Usage  
+## Tecnologías Utilizadas  
 
-1. Open `index.html` in your browser to view the collection.  
-2. Use the input fields above the table to filter stamps based on **ID, name, country, or year**.
+- **HTML** - Para estructurar la página web.  
+- **CSS** - Para diseñar y dar estilo a la interfaz.  
+- **JavaScript** - Para la funcionalidad interactiva de filtrado.  
 
-## Technologies Used  
+## Contribuciones  
 
-- **HTML** - For structuring the webpage.  
-- **CSS** - For styling the layout and design.  
-- **JavaScript** - For interactive filtering functionality.  
+¡Las contribuciones son bienvenidas! 🎉 Siéntete libre de enviar **pull requests** o abrir **issues** para sugerir mejoras.
 
-## Contribution  
+## Licencia  
 
-Contributions are welcome! 🎉 Feel free to submit **pull requests** or open **issues** to suggest improvements.
+Este proyecto está licenciado bajo la **Licencia MIT**.  
 
-## License  
-
-This project is licensed under the **MIT License**.  
-
-## Author  
+## Autor  
 
 👤 **John Maple**  
 
-Happy collecting! 📬
+¡Disfrute coleccionando! 📬
