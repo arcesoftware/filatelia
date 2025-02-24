@@ -24,7 +24,7 @@ Welcome to the **Philatelic Collection** repository! This project hosts a static
 1. Clone this repository:  
    ```sh
    git clone https://github.com/yourusername/philatelic-collection.git
-  ```
+
 
 ## Usage  
 
