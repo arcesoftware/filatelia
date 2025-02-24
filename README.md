@@ -1,4 +1,5 @@
-![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps.JPG?raw=true)
+![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps_cover.JPG?raw=true)
+
 <h1 align="center">Colección Filatélica</h1>
 
 ¡Bienvenido al repositorio de la **Colección Filatélica**! Este proyecto alberga un sitio web estático que muestra una colección personal de estampillas postales. El sitio web permite a los usuarios filtrar y ver las estampillas según varios atributos.
@@ -50,4 +51,4 @@ Este proyecto está licenciado bajo la **Licencia MIT**.
 
 ¡Disfrute coleccionando! 📬
 
-![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps_cover.JPG?raw=true)
+![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps.JPG?raw=true)
