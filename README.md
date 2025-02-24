@@ -16,17 +16,16 @@
 │── index.html       # Archivo HTML principal
 │── style.css        # Hoja de estilos para el sitio web
 │── script.js        # JavaScript para la funcionalidad de filtrado
-│── stamp.json       # Base de datos en JSON de estampillas (si aplica)
-│── README.md        # Documentación del proyecto (este archivo)
+│── stamp.json       # Base de datos en JSON de estampillas 
+│── README.md        # Documentación del proyecto 
 │── images/          # Directorio que contiene las imágenes de las estampillas
-│   └── stamps.JPG   # Ejemplo de imagen de estampilla
 ```
 
 ## Uso
 
 1. Clona este repositorio:  
    ```sh
-   git clone https://github.com/yourusername/philatelic-collection.git
+   git clone https://github.com/arcesoftware/filatelia
 
 2. Abre `index.html` en tu navegador para ver la colección.  
 3. Utiliza los campos de entrada sobre la tabla para filtrar las estampillas por **ID, nombre, país o año**.
@@ -50,3 +49,5 @@ Este proyecto está licenciado bajo la **Licencia MIT**.
 👤 **John Maple**  
 
 ¡Disfrute coleccionando! 📬
+
+![Alt Text](https://github.com/arcesoftware/filatelia/blob/main/images/stamps_cover.JPG?raw=true)
